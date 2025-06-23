@@ -1,0 +1,39 @@
+#
+ism = "Abdulloh"
+yosh = 25
+
+print(ism)
+print(yosh)
+
+#
+ism = "Abdulloh"
+print(ism)
+ism="Muhammad"
+print(ism)
+
+#
+False               class               from                or
+None                continue            global              pass
+True                def                 if                  raise
+and                 del                 import              return
+as                  elif                in                  try
+assert              else                is                  while
+async               except              lambda              with
+await               finally             nonlocal            yield
+break               for                 not                 
+
+#
+radius = 5
+pi = 3.14159
+aylana_yuzi = pi * radius**2
+print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)
+JAVOBLAR
+
+#
+matn = "Hello World!"
+print(matn)
+
+radius = 5
+pi = 3.14159
+aylana_yuzi = pi * radius**2
+print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)
